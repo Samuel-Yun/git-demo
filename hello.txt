@@ -13,5 +13,5 @@ hello xiao!hello git!
 hello xiao!hello git!
 hello xiao!hello git!
 hello xiao!hello git!
-hello xiao!hello git!
 hello xiao!hello git! master test
+hello xiao!hello git! hot-fix test
